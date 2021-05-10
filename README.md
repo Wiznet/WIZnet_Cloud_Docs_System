@@ -1,2 +1,3 @@
-# WIZnet_Cloud_Docs_System
-WIZnet Cloud Docs system
+# WIZnet Cloud Docs System
+
+This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
