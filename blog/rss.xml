@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>WIZnet Cloud Docs System Blog</title>
+        <title>WIZnet Cloud Documentation System Blog</title>
         <link>https://wiznetcloudtest.github.io/blog</link>
-        <description>WIZnet Cloud Docs System Blog</description>
+        <description>WIZnet Cloud Documentation System Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
