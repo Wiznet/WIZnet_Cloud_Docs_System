@@ -7,7 +7,7 @@ module.exports = {
     url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
 //   baseUrl: '/',
 //     baseUrl: '/WIZnet_Cloud_Docs_System/',
-      baseUrl: '/WIZnet_Cloud_Docs_System',
+      baseUrl: '/WIZnet_Cloud_Docs_System/',
 //   onBrokenLinks: 'throw',
     onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -99,6 +99,9 @@ module.exports = {
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
+        sitemap:{
+        trailingslash:false,
+        }
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
