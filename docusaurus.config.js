@@ -100,7 +100,7 @@ module.exports = {
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
 //         sitemap:{
-//         trailingslash:false,
+//         trailingSlash: false
 //         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
