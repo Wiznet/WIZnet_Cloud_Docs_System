@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'WIZnet Cloud Documentation System',
-  tagline: 'Welcome to new WIZnet Cloud Document System!',
+  tagline: 'Welcome to new WIZnet Cloud Documentation System!',
 //   url: 'https://your-docusaurus-test-site.com',
   url:'https://wiznetcloudtest.github.io',
   baseUrl: '/',
