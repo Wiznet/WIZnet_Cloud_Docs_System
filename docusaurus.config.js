@@ -1,8 +1,9 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'WIZnet Cloud Docs System',
+  tagline: 'Cloud System Documentation',
+//   url: 'https://your-docusaurus-test-site.com',
+  url:'wiznetcloudtest.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
