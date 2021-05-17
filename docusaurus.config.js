@@ -101,7 +101,7 @@ module.exports = {
         },
         sitemap:{
         trailingslash:false,
-        }
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
