@@ -5,6 +5,9 @@ sidebar_position: 1
 
 # Welcome To WIZnet Cloud Documentation System !!! (DOCS ONLY MODE INTRO)
 
+##   title: 'WIZnet Cloud Documentation System',
+##  tagline: 'Welcome to new WIZnet Cloud Documentation System!',
+
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
