@@ -82,7 +82,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
-//         plugins: ['./website/websitePlugin'],
+  plugins: ['./website/websitePlugin'],
   presets: [
     [
       '@docusaurus/preset-classic',
