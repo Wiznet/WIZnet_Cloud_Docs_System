@@ -82,6 +82,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
+//         plugins: ['./website/websitePlugin'],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -102,7 +103,6 @@ module.exports = {
 //         sitemap:{
 //         trailingSlash: false
 //         },
-//         plugins: ['./website/websitePlugin'],
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
