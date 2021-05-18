@@ -103,7 +103,6 @@ module.exports = {
         sitemap:{
         trailingSlash: false
         },
-//           plugins: ['./sitePlugin'],
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
