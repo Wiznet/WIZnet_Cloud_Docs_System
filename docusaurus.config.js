@@ -13,7 +13,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Wiznet', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'WIZnet_Cloud_Docs_System', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
