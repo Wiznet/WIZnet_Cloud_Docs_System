@@ -99,9 +99,10 @@ module.exports = {
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
-        sitemap:{
-        trailingSlash: false
-        },
+//         sitemap:{
+//         trailingSlash: false
+//         },
+        plugins: ['./website/websitePlugin'],
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
