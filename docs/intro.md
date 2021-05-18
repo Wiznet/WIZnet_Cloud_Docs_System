@@ -3,10 +3,9 @@ slug: /
 sidebar_position: 1
 ---
 
-# Welcome To WIZnet Cloud Documentation System !!! (DOCS ONLY MODE INTRO)
+# Welcome To WIZnet Cloud Documentation System
 
-##   title: 'WIZnet Cloud Documentation System',
-##  tagline: 'Welcome to new WIZnet Cloud Documentation System!',
+### (DOCS ONLY MODE INTRO)
 
 # Tutorial Intro
 
