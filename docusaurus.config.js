@@ -15,6 +15,15 @@ module.exports = {
   organizationName: 'Wiznet', // Usually your GitHub org/user name.
   projectName: 'WIZnet_Cloud_Docs_System', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+      switchConfig: {
+        darkIcon: '\u{26c8}',
+        lightIcon: '\u{1f324}',
+      },
+    },    
     navbar: {
       title: 'Wiznet Cloud Documentation System !',
       logo: {
