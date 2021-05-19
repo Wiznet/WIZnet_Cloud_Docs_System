@@ -39,7 +39,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Wiznet/WIZnet_Cloud_Docs_System',
           label: 'GitHub',
           position: 'right',
         },
