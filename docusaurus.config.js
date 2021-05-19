@@ -11,7 +11,7 @@ module.exports = {
 //   onBrokenLinks: 'throw',
     onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  //favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.ico',
   organizationName: 'Wiznet', // Usually your GitHub org/user name.
   projectName: 'WIZnet_Cloud_Docs_System', // Usually your repo name.
   themeConfig: {
