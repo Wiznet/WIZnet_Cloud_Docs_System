@@ -16,7 +16,7 @@ module.exports = {
   projectName: 'WIZnet_Cloud_Docs_System', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Wiznet Cloud Documentation System !',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
