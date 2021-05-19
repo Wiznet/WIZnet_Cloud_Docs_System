@@ -96,7 +96,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
-  plugins: ['./sitePlugin'],
+  plugins: ['./websitePlugin'],
   presets: [
     [
       '@docusaurus/preset-classic',
