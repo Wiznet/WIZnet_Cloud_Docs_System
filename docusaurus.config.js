@@ -31,10 +31,10 @@ module.exports = {
         src: 'img/wiznet_logo.svg',
         srcDark: 'img/wiznet_logo-white.svg',
       },
-      logo: {
-        alt: 'Wiznet Logo',
-        src: 'img/logo.svg',
-      },
+//       logo: {
+//         alt: 'Wiznet Logo',
+//         src: 'img/logo.svg',
+//       },
       items: [
         {
           type: 'doc',
