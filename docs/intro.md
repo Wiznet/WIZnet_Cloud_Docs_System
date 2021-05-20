@@ -1,5 +1,5 @@
 ---
-<!--- slug: / --->
+slug: / 
 sidebar_position: 1
 ---
 
