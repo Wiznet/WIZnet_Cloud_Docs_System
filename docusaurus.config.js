@@ -5,7 +5,7 @@ module.exports = {
 //   url: 'https://your-docusaurus-test-site.com',
 //   url:'https://wiznetcloudtest.github.io',
 //   url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
-  url:'doc.wiznet.io'
+  url:'doc.wiznet.io',
   baseUrl: '/',
 //     baseUrl: '/WIZnet_Cloud_Docs_System/',
 //   onBrokenLinks: 'throw',
