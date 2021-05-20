@@ -9,9 +9,10 @@ module.exports = {
   baseUrl: '/',
 //     baseUrl: '/WIZnet_Cloud_Docs_System/',
 //   onBrokenLinks: 'throw',
-    onBrokenLinks: 'warn',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/wizfavicon.ico',
+  favicon: 'img/favicon.ico',
+//  favicon: 'img/wizfavicon.ico',
   organizationName: 'Wiznet', // Usually your GitHub org/user name.
   projectName: 'WIZnet_Cloud_Docs_System', // Usually your repo name.
   themeConfig: {
@@ -25,13 +26,17 @@ module.exports = {
       },
     },    
     navbar: {
-//      title: 'Wiznet Cloud Documentation System !!!',
+      title: 'Wiznet Cloud Documentation System !!!',
       logo: {
-        alt: 'Wiznet Logo',
-        src: 'img/wiznet_logo.svg',
-        srcDark: 'img/wiznet_logo-white.svg',
-//         position: 'right'
-      },
+        alt: 'My Site Logo',
+        src: 'img/logo.svg',
+      },      
+//       logo: {
+//         alt: 'Wiznet Logo',
+//         src: 'img/wiznet_logo.svg',
+//         srcDark: 'img/wiznet_logo-white.svg',
+// //         position: 'right'
+//       },
  items: [
         {
           label: 'Documents!',
