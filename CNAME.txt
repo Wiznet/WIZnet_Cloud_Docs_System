@@ -1,1 +1,1 @@
-doc.wiznet.io
+https://wiznet.github.io/WIZnet_Cloud_Docs_System/
