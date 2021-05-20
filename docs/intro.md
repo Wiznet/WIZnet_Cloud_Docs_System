@@ -3,11 +3,8 @@ slug: /
 sidebar_position: 1
 ---
 
-# Welcome To WIZnet Cloud Documentation System !!!
+# Welcome, WIZnet CDS 
 
-### (DOCS ONLY MODE INTRO) --------------------->
-
-# Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
