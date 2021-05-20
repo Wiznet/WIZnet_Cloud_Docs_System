@@ -1,16 +1,19 @@
-//docusaurus.config.js for Docs only Mode
-
+/** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'WIZnet Document System',
-  tagline: 'Welcome to new WIZnet Document System!',
-  //url: 'https://wiznet.github.io',
-url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
-  baseUrl: '/WIZnet_Cloud_Docs_System/',
-  onBrokenLinks: 'warn',
-  onDuplicateRoutes: 'warn',
+  title: 'WIZnet Cloud Documentation System',
+  tagline: 'Welcome to new WIZnet Cloud Documentation System!',
+//   url: 'https://your-docusaurus-test-site.com',
+//   url:'https://wiznetcloudtest.github.io',
+    url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
+//   baseUrl: '/',
+//     baseUrl: '/WIZnet_Cloud_Docs_System/',
+      baseUrl: '/WIZnet_Cloud_Docs_System/',
+//   onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/wizfavicon.ico',
   organizationName: 'Wiznet', // Usually your GitHub org/user name.
-  projectName: 'document-framework', // Usually your repo name.
+  projectName: 'WIZnet_Cloud_Docs_System', // Usually your repo name.
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
@@ -20,30 +23,19 @@ url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
         darkIcon: '\u{26c8}',
         lightIcon: '\u{1f324}',
       },
-    },
-//     algolia: {
-//       apiKey: 'f997035e1f482592037217527848e3fd',
-//       indexName: 'wiznet-cloud',
-//             // Optional: see doc section bellow
-//       contextualSearch: true,
-
-//       // Optional: Algolia search parameters
-//      // searchParameters: {},
-
-//       //... other Algolia params
-//     },
-
+    },    
     navbar: {
-      //title: 'WIZnet',
+      title: 'Wiznet Cloud Documentation System !!!',
       logo: {
         alt: 'Wiznet Logo',
         src: 'img/wiznet_logo.svg',
         srcDark: 'img/wiznet_logo-white.svg',
+//         position: 'right'
       },
-      items: [
+ items: [
         {
-          label: 'Documents',
-          position: 'right', // or 'left'
+          label: 'DOCUMENTS!',
+          position: 'left', // or 'left'
           items: [
             // {
             //   label: 'HOME',
@@ -51,18 +43,20 @@ url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
             // },
             {
               label: 'Introduction ➤',
-              to: 'introduction',
+//               to: '/docs/intro',
+//               to: 'intro',              
+              to: '/',
             },
 //             {
 //               label: 'Products',
 //               to: '/',
 //             },
             {
-              label: 'Design Guide',
+              label: 'Design',
               to: '/',
             },
             {
-              label: 'VAR Products',
+              label: 'Products',
               to: '/',
             },
             // ... more items
@@ -70,19 +64,14 @@ url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
         },
          // {to: 'docs/introduction', label: 'INTRODUCTION TO WIZNET DOCUMENTS ➤', position: 'right'},
          // {to: 'docs/download', label: 'Download', position: 'right'},
-         {href: 'https://forum.wiznet.io/', label: 'Forum', position: 'right'},
-         {href: 'https://www.wiznet.io/', label: 'WIZnet', position: 'right'},
+         {href: 'https://forum.wiznet.io/', label: 'Forum', position: 'left'},
+         {href: 'https://www.wiznet.io/', label: 'WIZnet', position: 'left'},
 
-        //{to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Wiznet/document_framework',
+          href: 'https://github.com/Wiznet/WIZnet_Cloud_Docs_System',
           label: 'GitHub',
-          position: 'right',
-        },
-        {
-//           href: '',
-//           label: 'Save as PDF',
-//           position: 'right',
+          position: 'left',
         },
       ],
     },
@@ -93,8 +82,10 @@ url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
           title: 'Docs',
           items: [
             {
-              label: 'Introduction',
-              to: '/',
+              label: 'Documents',
+//               to: '/docs/intro',
+//               to: 'intro',
+              to: '/',              
             },
           ],
         },
@@ -102,34 +93,34 @@ url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
           title: 'Community',
           items: [
             {
-              label: 'WIZnet Forum',
-              href: 'https://forum.wiznet.io',
+              label: 'Stack Overflow',
+              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'WIZnet Maker',
-              href: 'http://maker.wiznet.io/',
+              label: 'Discord',
+              href: 'https://discordapp.com/invite/docusaurus',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/docusaurus',
             },
           ],
         },
         {
-          title: 'Social',
+          title: 'More',
           items: [
-            //{
-            //  label: 'Blog',
-            //  to: 'blog',
-            //},
+            {
+              label: 'Blog',
+              to: '/blog',
+            },
             {
               label: 'GitHub',
-              href: 'https://github.com/Wiznet/document_framework',
+              href: 'https://github.com/facebook/docusaurus',
             },
-          //  {
-          //    label: 'Twitter',
-          //    href: '',
-          //  },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} WIZnet Co., Ltd. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
   plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
@@ -138,10 +129,17 @@ url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
       '@docusaurus/preset-classic',
       {
         docs: {
-          routeBasePath:'/',
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:          
-            'https://github.com/Wiznet/document_framework/tree/master/',
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/',
+        },
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
 //         sitemap:{
 //         trailingSlash: false
