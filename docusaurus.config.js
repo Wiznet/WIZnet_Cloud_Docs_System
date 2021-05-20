@@ -25,7 +25,7 @@ module.exports = {
       },
     },    
     navbar: {
-      title: 'Wiznet Cloud Documentation System !!!',
+//      title: 'Wiznet Cloud Documentation System !!!',
       logo: {
         alt: 'Wiznet Logo',
         src: 'img/wiznet_logo.svg',
@@ -34,8 +34,8 @@ module.exports = {
       },
  items: [
         {
-          label: 'DOCUMENTS!',
-          position: 'left', // or 'left'
+          label: 'Documents!',
+          position: 'right', // or 'left'
           items: [
             // {
             //   label: 'HOME',
@@ -64,14 +64,14 @@ module.exports = {
         },
          // {to: 'docs/introduction', label: 'INTRODUCTION TO WIZNET DOCUMENTS ➤', position: 'right'},
          // {to: 'docs/download', label: 'Download', position: 'right'},
-         {href: 'https://forum.wiznet.io/', label: 'Forum', position: 'left'},
-         {href: 'https://www.wiznet.io/', label: 'WIZnet', position: 'left'},
+         {href: 'https://forum.wiznet.io/', label: 'Forum', position: 'right'},
+         {href: 'https://www.wiznet.io/', label: 'WIZnet', position: 'right'},
 
-        {to: 'blog', label: 'Blog', position: 'left'},
+//        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Wiznet/WIZnet_Cloud_Docs_System',
           label: 'GitHub',
-          position: 'left',
+          position: 'right',
         },
       ],
     },
