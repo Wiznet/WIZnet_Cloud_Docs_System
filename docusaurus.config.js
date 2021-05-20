@@ -41,11 +41,13 @@ module.exports = {
           docId: 'intro',
           position: 'right',
           label: 'Tutorial',
-        },
-         {
+          items:[
+            {
               label : 'drop1',
               to: '/docs/intro',
             },
+        ],
+       },
         {to: '/blog', label: 'Blog', position: 'right'},
         {
           href: 'https://github.com/Wiznet/WIZnet_Cloud_Docs_System',
