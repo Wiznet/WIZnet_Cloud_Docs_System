@@ -10,7 +10,7 @@ url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
   onDuplicateRoutes: 'warn',
   favicon: 'img/wizfavicon.ico',
   organizationName: 'Wiznet', // Usually your GitHub org/user name.
-  projectName: 'document_framework', // Usually your repo name.
+  projectName: 'document-framework', // Usually your repo name.
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
@@ -59,11 +59,11 @@ url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
 //             },
             {
               label: 'Design Guide',
-              to: '/Design-Guide/design_guide',
+              to: '/',
             },
             {
               label: 'VAR Products',
-              to: '/VAR-Products-using-WIZnet/var_products_using_wiznet',
+              to: '/',
             },
             // ... more items
           ],
@@ -94,7 +94,7 @@ url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
           items: [
             {
               label: 'Introduction',
-              to: 'docs/introduction',
+              to: '/',
             },
           ],
         },
