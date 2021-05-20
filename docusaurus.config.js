@@ -5,7 +5,7 @@ module.exports = {
   tagline: 'Welcome to new WIZnet Document System!',
   //url: 'https://wiznet.github.io',
 url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
-  baseUrl: '//WIZnet_Cloud_Docs_System/',
+  baseUrl: '/WIZnet_Cloud_Docs_System/',
   onBrokenLinks: 'warn',
   onDuplicateRoutes: 'warn',
   favicon: 'img/wizfavicon.ico',
