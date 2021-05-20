@@ -35,7 +35,7 @@ module.exports = {
  items: [
         {
           label: 'DOCUMENTS!',
-          position: 'left', // or 'left'
+          position: 'right', // or 'left'
           items: [
             // {
             //   label: 'HOME',
@@ -67,11 +67,11 @@ module.exports = {
          {href: 'https://forum.wiznet.io/', label: 'Forum', position: 'left'},
          {href: 'https://www.wiznet.io/', label: 'WIZnet', position: 'left'},
 
-        {to: 'blog', label: 'Blog', position: 'left'},
+        //{to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Wiznet/WIZnet_Cloud_Docs_System',
           label: 'GitHub',
-          position: 'left',
+          position: 'right',
         },
       ],
     },
@@ -123,7 +123,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
-  plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
+//  plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
   presets: [
     [
       '@docusaurus/preset-classic',
