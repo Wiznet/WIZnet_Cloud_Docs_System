@@ -2,10 +2,9 @@
 module.exports = {
   title: 'WIZnet Cloud Documentation System',
   tagline: 'Welcome to new WIZnet Cloud Documentation System!',
-//  url: 'https://your-docusaurus-test-site.com',
-//  url:'https://wiznetcloudtest.github.io',
-//  url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
-  url:'doc.wiznet.io',
+//   url: 'https://your-docusaurus-test-site.com',
+//   url:'https://wiznetcloudtest.github.io',
+    url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
    baseUrl: '/',
 //     baseUrl: '/WIZnet_Cloud_Docs_System/',
 //   onBrokenLinks: 'throw',
