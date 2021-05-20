@@ -26,62 +26,9 @@ module.exports = {
         lightIcon: '\u{1f324}',
       },
     },    
-//     navbar: {
-// //    title: 'Wiznet Cloud Documentation System !!!',
-// //       logo: {
-// //         alt: 'My Site Logo',
-// //         src: 'img/logo.svg',
-// //       },      
-//       logo: {
-//         alt: 'Wiznet Logo',
-//         src: 'img/wiznet_logo.svg',
-//         srcDark: 'img/wiznet_logo-white.svg',
-// //         position: 'right'
-//       },
-//  items: [
-//         {
-//           label: 'Documents!',
-//           position: 'right', // or 'left'
-//           items: [
-//             // {
-//             //   label: 'HOME',
-//             //   to: '/',
-//             // },
-//             {
-//               label: 'Introduction ➤',
-// //               to: '/docs/intro',
-// //               to: 'intro',              
-//               to: '/',
-//             },
-// //             {
-// //               label: 'Products',
-// //               to: '/',
-// //             },
-//             {
-//               label: 'Design',
-//               to: '/',
-//             },
-//             {
-//               label: 'Products',
-//               to: '/',
-//             },
-//             // ... more items
-//           ],
-//         },
-//          // {to: 'docs/introduction', label: 'INTRODUCTION TO WIZNET DOCUMENTS ➤', position: 'right'},
-//          // {to: 'docs/download', label: 'Download', position: 'right'},
-//          {href: 'https://forum.wiznet.io/', label: 'Forum', position: 'right'},
-//          {href: 'https://www.wiznet.io/', label: 'WIZnet', position: 'right'},
-
-// //        {to: 'blog', label: 'Blog', position: 'left'},
-//         {
-//           href: 'https://github.com/Wiznet/WIZnet_Cloud_Docs_System',
-//           label: 'GitHub',
-//           position: 'right',
-//         },
-//       ],
-//     },
-        navbar: {
+    navbar: {
+      hideOnScroll: true,
+      style: 'dark',
 //    title: 'Wiznet Cloud Documentation System !!!',
 //       logo: {
 //         alt: 'My Site Logo',
