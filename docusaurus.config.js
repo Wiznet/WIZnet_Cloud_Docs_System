@@ -28,7 +28,7 @@ module.exports = {
     },    
     navbar: {
       hideOnScroll: true,
-      style: 'dark', // primary || dark
+      style: 'primary', // primary || dark
 //    title: 'Wiznet Cloud Documentation System !!!',
 //       logo: {
 //         alt: 'My Site Logo',
@@ -84,7 +84,7 @@ module.exports = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'primary',
       links: [
         {
           title: 'Docs',
