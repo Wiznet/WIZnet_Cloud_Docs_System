@@ -20,12 +20,12 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: Installation
-      run: yarn
+      run: npm
     - name: Docusaurus 2 Build
-      run: yarn build
+      run: npm run build
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
 #         publish_dir: ./website/build
-        publish_dir: ./build
+        publish_dir: ./build/
