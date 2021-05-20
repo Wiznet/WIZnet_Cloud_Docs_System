@@ -26,11 +26,11 @@ module.exports = {
       },
     },    
     navbar: {
-      title: 'Wiznet Cloud Documentation System !!!',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },      
+   //   title: 'Wiznet Cloud Documentation System !!!',
+//       logo: {
+//         alt: 'My Site Logo',
+//         src: 'img/logo.svg',
+//       },      
 //       logo: {
 //         alt: 'Wiznet Logo',
 //         src: 'img/wiznet_logo.svg',
