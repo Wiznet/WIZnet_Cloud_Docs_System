@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doc.wiznet.io/blog"/>
     <subtitle>WIZnet Cloud Documentation System Blog</subtitle>
-    <icon>https://doc.wiznet.io/img/favicon.ico</icon>
+    <icon>https://doc.wiznet.io/img/wizfavicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
