@@ -16,6 +16,7 @@ module.exports = {
   organizationName: 'Wiznet', // Usually your GitHub org/user name.
   projectName: 'WIZnet_Cloud_Docs_System', // Usually your repo name.
   themeConfig: {
+    hideableSidebar: true,
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
