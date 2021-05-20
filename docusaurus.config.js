@@ -42,7 +42,9 @@ module.exports = {
             // },
             {
               label: 'Introduction ➤',
-              to: 'intro',
+//               to: '/docs/intro',
+//               to: 'intro',              
+              to: '/',
             },
 //             {
 //               label: 'Products',
@@ -50,11 +52,11 @@ module.exports = {
 //             },
             {
               label: 'Design',
-              to: 'intro',
+              to: '/',
             },
             {
               label: 'Products',
-              to: 'intro',
+              to: '/',
             },
             // ... more items
           ],
@@ -80,7 +82,9 @@ module.exports = {
           items: [
             {
               label: 'Documents',
-              to: 'intro',
+//               to: '/docs/intro',
+//               to: 'intro',
+              to: '/',              
             },
           ],
         },
