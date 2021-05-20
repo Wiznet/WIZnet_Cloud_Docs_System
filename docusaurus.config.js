@@ -7,7 +7,7 @@ module.exports = {
     url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
 //   baseUrl: '/',
 //     baseUrl: '/WIZnet_Cloud_Docs_System/',
-      baseUrl: '/WIZnet_Cloud_Docs_System/',
+      baseUrl: '/',
 //   onBrokenLinks: 'throw',
     onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
