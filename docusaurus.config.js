@@ -31,24 +31,40 @@ module.exports = {
         src: 'img/wiznet_logo.svg',
         srcDark: 'img/wiznet_logo-white.svg',
       },
-//       logo: {
-//         alt: 'Wiznet Logo',
-//         src: 'img/logo.svg',
-//       },
-      items: [
+ items: [
         {
-          type: 'doc',
-          docId: 'intro',
-          position: 'right',
-          label: 'Tutorial',
-          items:[
+          label: 'DOCUMENTS!',
+          position: 'right', // or 'left'
+          items: [
+            // {
+            //   label: 'HOME',
+            //   to: '/',
+            // },
             {
-              label : 'drop1',
-              to: '/docs/intro',
+              label: 'Introduction ➤',
+              to: 'intro',
             },
-        ],
-       },
-        {to: '/blog', label: 'Blog', position: 'right'},
+//             {
+//               label: 'Products',
+//               to: '/',
+//             },
+            {
+              label: 'Design',
+              to: 'intro',
+            },
+            {
+              label: 'Products',
+              to: 'intro',
+            },
+            // ... more items
+          ],
+        },
+         // {to: 'docs/introduction', label: 'INTRODUCTION TO WIZNET DOCUMENTS ➤', position: 'right'},
+         // {to: 'docs/download', label: 'Download', position: 'right'},
+         {href: 'https://forum.wiznet.io/', label: 'Forum', position: 'right'},
+         {href: 'https://www.wiznet.io/', label: 'WIZnet', position: 'right'},
+
+        //{to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Wiznet/WIZnet_Cloud_Docs_System',
           label: 'GitHub',
@@ -64,7 +80,7 @@ module.exports = {
           items: [
             {
               label: 'Documents',
-              to: '/docs/intro',
+              to: 'intro',
             },
           ],
         },
