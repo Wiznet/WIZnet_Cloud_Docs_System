@@ -27,7 +27,7 @@ module.exports = {
       },
     },    
     navbar: {
-   //   title: 'Wiznet Cloud Documentation System !!!',
+    title: 'Wiznet Cloud Documentation System !!!',
 //       logo: {
 //         alt: 'My Site Logo',
 //         src: 'img/logo.svg',
