@@ -84,7 +84,7 @@ module.exports = {
       ],
     },
     footer: {
-      style: 'primary',
+      style: 'dark',
       links: [
         {
           title: 'Docs',
