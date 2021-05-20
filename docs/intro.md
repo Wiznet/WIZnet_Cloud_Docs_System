@@ -1,10 +1,9 @@
 ---
-slug: /
 sidebar_position: 1
+slug: /
 ---
 
-# Welcome, WIZnet CDS 
-
+# Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
