@@ -30,7 +30,7 @@ module.exports = {
         alt: 'Wiznet Logo',
         src: 'img/wiznet_logo.svg',
         srcDark: 'img/wiznet_logo-white.svg',
-        position: 'right'
+//         position: 'right'
       },
  items: [
         {
