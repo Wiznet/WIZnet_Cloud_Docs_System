@@ -3,7 +3,7 @@ slug: /
 sidebar_position: 1
 ---
 
-# Tutorial Introduction
+# Welcome to WIZnet Cloud Docs System
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
