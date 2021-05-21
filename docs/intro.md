@@ -8,39 +8,24 @@ sidebar_position: 1
 ![](../static/img/CLoud/IMAGES/comp1_img_1.c61e995f.png)
 
 
-## Getting Started
+## Build your own IoT Device on WIZnet IoT Solution
 
-Get started by **creating a new site**.
+Connect and verify your IoT Device with a High level security and make your own prototype with WIZnet IoT Solution.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+Our Products information at [docs.wiznet.io](https://docs.wiznet.io)**.
 
 
 ![](../static/img/CLoud/IMAGES/ComptwoImg.3e3279d9.png)
 
 
-## Generate a new site
+## Make your own Prototype
 
-Generate a new Docusaurus site using the **classic template**:
+Start to make your own prototype with Customizing Service of WIZnet IoT Solution
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
 
-![](../static/img/CLoud/IMAGES/comp4img1.df2b5ebe.png)
+![](../static/img/CLoud/IMAGES/own-prototype-cloud.png)
 
-## Start your site
 
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
-
+## Copyright © 2021 WIZnet Co., Ltd. Built with Docusaurus.
 
 ![](../static/img/croppedwiznetlogo.png)
