@@ -7,14 +7,16 @@ sidebar_position: 1
 
 ![](../static/img/CLoud/IMAGES/comp1_img_1.c61e995f.png)
 
-![](../static/img/CLoud/IMAGES/ComptwoImg.3e3279d9.png)
-
 
 ## Getting Started
 
 Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+
+
+![](../static/img/CLoud/IMAGES/ComptwoImg.3e3279d9.png)
+
 
 ## Generate a new site
 
