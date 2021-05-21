@@ -5,6 +5,11 @@ sidebar_position: 1
 
 # Welcome to WIZnet Cloud Docs System
 
+![](static/img/croppedwiznetlogo.png)
+
+
+![](/img/CLoud/IMAGES/ComptwoImg.3e3279d9.png)
+
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
