@@ -87,7 +87,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Documentss',
+          title: 'Documents',
           items: [
             {
               label: 'Introduction',
@@ -117,7 +117,7 @@ module.exports = {
             //},
             {
               label: 'GitHub',
-              href: 'https://github.com/Wiznet/document_framework',
+              href: 'https://github.com/Wiznet/WIZnet_Cloud_Docs_System',
             },
           //  {
           //    label: 'Twitter',
