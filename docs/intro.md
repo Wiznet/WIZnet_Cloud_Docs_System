@@ -25,4 +25,4 @@ Start to make your own prototype with Customizing Service of WIZnet IoT Solution
 
 ![](../static/img/croppedwiznetlogo.png)
 
-### Copyright © 2021 WIZnet Co., Ltd. Built with Docusaurus.
+#### Copyright © 2021 WIZnet Co., Ltd.
