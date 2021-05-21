@@ -61,11 +61,11 @@ module.exports = {
 //             },
             {
               label: 'Cloud',
-              to: '/',
+              to: 'https://iot-solutution-landing-page.azurewebsites.net',
             },
             {
               label: 'Products',
-              to: '/',
+              to: 'docs.wiznet.io',
             },
             // ... more items
           ],
