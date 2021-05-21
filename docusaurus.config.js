@@ -87,13 +87,11 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Documentss',
           items: [
             {
-              label: 'Documents',
-//               to: '/docs/intro',
-//               to: 'intro',
-              to: '/',              
+              label: 'Introduction',
+              to: 'docs/introduction',
             },
           ],
         },
@@ -101,37 +99,37 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'WIZnet Forum',
+              href: 'https://forum.wiznet.io',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'WIZnet Maker',
+              href: 'http://maker.wiznet.io/',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Social',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
+            //{
+            //  label: 'Blog',
+            //  to: 'blog',
+            //},
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Wiznet/document_framework',
             },
+          //  {
+          //    label: 'Twitter',
+          //    href: '',
+          //  },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} WIZnet Co., Ltd. Built with Docusaurus.`,
     },
   },
- plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
+  plugins: ['./PreventTrailingSlash/PreventTrailingSlashPlugin'],
   presets: [
     [
       '@docusaurus/preset-classic',
