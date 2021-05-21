@@ -27,9 +27,9 @@ module.exports = {
       },
     },    
     navbar: {
-      hideOnScroll: true,
+//      hideOnScroll: true,
 //      style: 'primary', // primary || dark
-//    title: 'Wiznet Cloud Documentation System !!!',
+//      title: 'Wiznet Cloud Documentation System !!!',
 //       logo: {
 //         alt: 'My Site Logo',
 //         src: 'img/logo.svg',
@@ -42,7 +42,7 @@ module.exports = {
       },
  items: [
         {
-          label: 'Documents!',
+          label: 'DOCS',
           position: 'right', // or 'left'
           items: [
             // {
@@ -60,11 +60,11 @@ module.exports = {
 //               to: '/',
 //             },
             {
-              label: 'Cloud',
+              label: 'Cloud ➤',
               to: 'https://iot-solutution-landing-page.azurewebsites.net',
             },
             {
-              label: 'Products',
+              label: 'Products ➤',
               to: 'https://docs.wiznet.io',
             },
             // ... more items
