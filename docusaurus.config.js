@@ -91,8 +91,8 @@ module.exports = {
           items: [
             {
               label: 'Introduction',
-              to: 'docs/introduction',
-            },
+//               to: 'docs/introduction',
+              to: '/',            },
           ],
         },
         {
