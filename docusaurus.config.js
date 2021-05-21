@@ -1,4 +1,7 @@
+//docusaurus.config.js for Docs only Mode 
+
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+
 module.exports = {
   title: 'WIZnet Cloud Documentation System',
   tagline: 'Welcome to new WIZnet Cloud Documentation System!',
