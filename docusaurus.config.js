@@ -65,7 +65,7 @@ module.exports = {
             },
             {
               label: 'Products',
-              to: 'docs.wiznet.io',
+              to: 'https://docs.wiznet.io',
             },
             // ... more items
           ],
