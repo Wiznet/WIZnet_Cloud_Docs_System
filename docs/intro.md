@@ -3,14 +3,12 @@ slug: /
 sidebar_position: 1
 ---
 
-# Welcome to WIZnet Cloud Docs System
+# Welcome to WIZnet Cloud Docs System !
 
-![](../static/img/croppedwiznetlogo.png)
-
+![](../static/img/CLoud/IMAGES/comp1_img_1.c61e995f.png)
 
 ![](../static/img/CLoud/IMAGES/ComptwoImg.3e3279d9.png)
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
@@ -26,6 +24,8 @@ Generate a new Docusaurus site using the **classic template**:
 npx @docusaurus/init@latest init my-website classic
 ```
 
+![](../static/img/CLoud/IMAGES/comp4img1.df2b5ebe.png)
+
 ## Start your site
 
 Run the development server:
@@ -39,3 +39,6 @@ npx docusaurus start
 Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+
+
+![](../static/img/croppedwiznetlogo.png)
