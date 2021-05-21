@@ -60,7 +60,7 @@ module.exports = {
 //               to: '/',
 //             },
             {
-              label: 'Design',
+              label: 'Cloud',
               to: '/',
             },
             {
