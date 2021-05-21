@@ -9,12 +9,11 @@ sidebar_position: 1
 
 Connect and verify your IoT Device with a High level security and make your own prototype with WIZnet IoT Solution.
 
-Our Products information at [docs.wiznet.io](https://docs.wiznet.io)**.
-
 <!--- ![](../static/img/CLoud/IMAGES/ComptwoImg.3e3279d9.png) --->
 
 ![](../static/img/CLoud/IMAGES/comp1_img_1.c61e995f.png)
 
+Visit our Products information at [docs.wiznet.io](https://docs.wiznet.io).
 
 
 ## Make your own Prototype
