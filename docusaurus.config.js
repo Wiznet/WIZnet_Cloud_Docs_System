@@ -30,7 +30,7 @@ module.exports = {
       },
     },    
     navbar: {
-//      hideOnScroll: true,
+      hideOnScroll: true,
 //      style: 'primary', // primary || dark
 //      title: 'Wiznet Cloud Documentation System !!!',
 //       logo: {
