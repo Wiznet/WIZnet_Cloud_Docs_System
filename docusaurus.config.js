@@ -72,7 +72,7 @@ module.exports = {
             },
             {
               label: 'Dashboard Page ➤',
-              to: '',
+              to: 'winciotdashboarddev.azurewebsites.net',
             },
             // ... more items
           ],
