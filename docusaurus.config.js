@@ -45,7 +45,7 @@ module.exports = {
       },
  items: [
         {
-          label: 'DOCS',
+          label: 'Useful Links',
           position: 'right', // or 'left'
           items: [
             // {
@@ -69,6 +69,10 @@ module.exports = {
             {
               label: 'Products Documentation ➤',
               to: 'https://docs.wiznet.io',
+            },
+            {
+              label: 'Dashboard Page ➤',
+              to: '',
             },
             // ... more items
           ],
