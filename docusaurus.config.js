@@ -71,8 +71,12 @@ module.exports = {
               to: 'https://docs.wiznet.io',
             },
             {
-              label: 'Dashboard Page ➤',
+              label: 'Dev Dashboard Page ➤',
               to: 'https://winciotdashboarddev.azurewebsites.net',
+            },
+            {
+              label: 'Dashboard Page Winc Official (winc.ai) ➤',
+              to: 'winc.ai',
             },
             // ... more items
           ],
