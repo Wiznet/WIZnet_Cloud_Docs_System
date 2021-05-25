@@ -4,7 +4,7 @@
 
 module.exports = {
   title: 'WIZnet Cloud Documentation System',
-  tagline: 'Welcome to new WIZnet Cloud Documentation System!',
+  tagline: 'Welcome to new WIZnet Cloud Documentation System !',
 //   url: 'https://your-docusaurus-test-site.com',
 //   url:'https://wiznetcloudtest.github.io',
 //   url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
