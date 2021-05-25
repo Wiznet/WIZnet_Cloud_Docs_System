@@ -71,11 +71,11 @@ module.exports = {
               to: 'https://iot-solutution-landing-page.azurewebsites.net',
             },
             {
-              label: 'Dev Dashboard Page ➤',
+              label: 'Dev-Dashboard Page ➤',
               to: 'https://winciotdashboarddev.azurewebsites.net',
             },
             {
-              label: 'Winc Dashboard Production Page (winc.ai) ➤',
+              label: 'Winc Dashboard Prod. Page (winc.ai) ➤',
               to: 'https://www.winc.ai',
             },
             // ... more items
