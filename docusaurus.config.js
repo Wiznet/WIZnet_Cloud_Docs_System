@@ -62,13 +62,13 @@ module.exports = {
 //               label: 'Products',
 //               to: '/',
 //             },
+             {
+              label: 'Products Documentation ➤',
+              to: 'https://docs.wiznet.io',
+            },
             {
               label: 'Cloud Page ➤',
               to: 'https://iot-solutution-landing-page.azurewebsites.net',
-            },
-            {
-              label: 'Products Documentation ➤',
-              to: 'https://docs.wiznet.io',
             },
             {
               label: 'Dev Dashboard Page ➤',
