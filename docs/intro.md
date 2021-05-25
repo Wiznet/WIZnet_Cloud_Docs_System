@@ -3,7 +3,7 @@ slug: /
 sidebar_position: 1
 ---
 
-# Welcome to WIZnet Cloud Docs System !
+# Welcome to the WIZnet Cloud Documentation System !!
 
 ## Build your own IoT Device on WIZnet IoT Solution
 
