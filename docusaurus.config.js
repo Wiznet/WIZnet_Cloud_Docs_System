@@ -16,7 +16,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
 //  favicon: 'img/favicon.ico',
   favicon: 'img/wizfavicon.ico',
-  organizationName: 'Wiznet', // Usually your GitHub org/user name.
+  organizationName: 'WIZnet Co., Ltd.', // Usually your GitHub org/user name.
   projectName: 'WIZnet_Cloud_Docs_System', // Usually your repo name.
   themeConfig: {
     hideableSidebar: true,
