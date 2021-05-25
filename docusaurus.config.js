@@ -76,7 +76,7 @@ module.exports = {
             },
             {
               label: 'Dashboard Page Winc Official (winc.ai) ➤',
-              to: 'winc.ai',
+              to: 'www.winc.ai',
             },
             // ... more items
           ],
