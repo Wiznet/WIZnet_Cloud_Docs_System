@@ -75,7 +75,7 @@ module.exports = {
               to: 'https://winciotdashboarddev.azurewebsites.net',
             },
             {
-              label: 'Dashboard Page Winc Official (winc.ai) ➤',
+              label: 'Winc Dashboard Production Page (winc.ai) ➤',
               to: 'https://www.winc.ai',
             },
             // ... more items
