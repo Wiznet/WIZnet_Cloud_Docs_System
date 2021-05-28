@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 
-# Introduction to dashboards
+## Introduction to dashboards
 User can create multiple dashboard taps on Dashboard site and one dashboard tap is composed of multiple widgets. To use widgets, IoT devices certified from WIZnet are registered and defined data rule for each data types in rule engine.
 
 
