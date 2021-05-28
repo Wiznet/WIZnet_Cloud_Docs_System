@@ -12,7 +12,7 @@ Dashboards are a great way to monitor data from IoT devices and see all the metr
 
 # Next
 Learn how to create user account
-</br>
+<br/>
 IoT Device certified by WIZnet catalogue
-</br>
+<br/>
 Learn how to create user dashboard
