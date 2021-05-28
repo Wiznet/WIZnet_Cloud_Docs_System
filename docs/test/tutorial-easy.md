@@ -1,7 +1,7 @@
-+ ---
-+ sidebar_label: Easy
-+ sidebar_position: 2
-+ ---
+---
+sidebar_label: Easy
+sidebar_position: 2
+ ---
 
 
 # Easy Tutorial
