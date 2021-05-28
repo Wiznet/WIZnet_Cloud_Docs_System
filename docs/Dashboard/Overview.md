@@ -1,5 +1,4 @@
 ---
-title: ABCD
 sidebar_label: Introduction to dashboards (Overview)
 sidebar_position: 1
 ---
@@ -9,7 +8,7 @@ sidebar_position: 1
 User can create multiple dashboard taps on Dashboard site and one dashboard tap is composed of multiple widgets. To use widgets, IoT devices certified from WIZnet are registered and defined data rule for each data types in rule engine.
 
 
-## Dashboard basics
+# Dashboard basics
 Widgets display configurable data and charts on dashboards. The widget catalog provides brief descriptions of those widgets available to you.
 
 Data used in widgets is from IoT devices and widget shows live data based on it. 
