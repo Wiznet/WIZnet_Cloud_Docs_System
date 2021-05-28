@@ -1,5 +1,5 @@
 ---
-title: A
+label: A
 sidebar_label: Introduction to dashboards (Overview)
 sidebar_position: 1
 ---
