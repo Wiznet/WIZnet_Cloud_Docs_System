@@ -22,6 +22,6 @@ Open [Dashboard site](https://dashboard.wizcloud.io) and click the sign up to cr
 ## Next
 IoT Device certified by WIZnet catalogue
 
-[Introduce of dashboard]()
+Introduce of dashboard
 
 Learn how to create user dashboard

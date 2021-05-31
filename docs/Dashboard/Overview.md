@@ -22,6 +22,6 @@ Learn how to create user account
 
 IoT Device certified by WIZnet catalogue
 
-[Introduce of dashboard]()
+Introduce of dashboard
 
 Learn how to create user dashboard

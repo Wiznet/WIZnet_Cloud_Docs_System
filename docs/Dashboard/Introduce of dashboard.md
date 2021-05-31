@@ -40,7 +40,7 @@ This list shows all types of widget supported from dashboard.
 ## Next
 Learn device rule engine
 
-[Learn how to register IoT device]()
+Learn how to register IoT device
 
 Learn how to connect IoT device to WIZnet cloud
 
