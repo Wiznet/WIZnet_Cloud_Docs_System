@@ -11,17 +11,17 @@ For the dashboard service, users are required to create an dashboard account. Us
 
 ## How to create a new account
 Create your new dashboard account as follows:
-<br>
+
 Open [Dashboard site](https://dashboard.wizcloud.io) and click the sign up to create new account.
-<br>
+
 ![](../../static/img/dashboard/create_new_account_1.png)
-<br>
+
 ![](../../static/img/dashboard/create_new_account_2.png)
 
 
 ## Next
 IoT Device certified by WIZnet catalogue
-<br>
-[Introduce of dashboard]()
-<br>
+
+Introduce of dashboard
+
 Learn how to create user dashboard

@@ -45,7 +45,7 @@ Devices certified to WIZnet Cloud are as follows.
 - W510S2C
 
 ## Next
-[Learn how to register IoT device]()
+Learn how to register IoT device
 </br>
 IoT 디바이스의 위즈네트 클라우드 접속에 대해서 알아봅시다
 <br>
