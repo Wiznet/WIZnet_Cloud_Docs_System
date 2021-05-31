@@ -27,14 +27,14 @@ The user can provide additional rules in addition to the three basic rules. If y
 ## how to edit device rule engine
 To edit the created rule, click ```View Details```, a submenu of View rules as shown below, edit the existing rule through ```Edit``` button, and click the ```Save``` button.
 
-![](../../static/img/dashboard/rule_engine_6.png)
+![](../../static/img/dashboard/rule_engine_4.png)
 
 ![](../../static/img/dashboard/rule_engine_5.png)
 
 ## how to delete device rule engine
 To delete the created rule, you can delete the existing rule through ```Remove``` button, which is a submenu of View rules, as shown below.
 
-![](../../static/img/dashboard/rule_engine_4.png)
+![](../../static/img/dashboard/rule_engine_6.png)
 
 
 ## device list
