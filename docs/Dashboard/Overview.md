@@ -1,11 +1,11 @@
 ---
 slug: /
-sidebar_label: Introduction to dashboards (Overview)
+sidebar_label: Overview
 sidebar_position: 1
 ---
 
 
-## Introduction to dashboards
+## Overview
 User can create multiple dashboard taps on Dashboard site and one dashboard tap is composed of multiple widgets. To use widgets, IoT devices certified from WIZnet are registered and defined data rule for each data types in rule engine.
 
 
@@ -19,7 +19,9 @@ Dashboards are a great way to monitor data from IoT devices and see all the metr
 
 ## Next
 Learn how to create user account
-
+<br>
 IoT Device certified by WIZnet catalogue
-
+<br>
+[Introduce of dashboard]()
+<br>
 Learn how to create user dashboard

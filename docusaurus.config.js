@@ -45,45 +45,45 @@ module.exports = {
       },
  items: [
         {
-          label: 'Useful Links',
+          label: 'WIZnet Cloud',
           position: 'right', // or 'left'
           items: [
             // {
             //   label: 'HOME',
             //   to: '/',
             // },
-            {
-              label: 'Introduction ➤',
+//            {
+//              label: 'Introduction ➤',
 //               to: '/docs/intro',
 //               to: 'intro',              
-              to: '/',
-            },
+//              to: '/',
+//            },
 //             {
 //               label: 'Products',
 //               to: '/',
 //             },
-             {
-              label: 'Products Documentation ➤',
+            {
+              label: 'WIZnet Cloud ➤',
+              to: 'https://cloud.wiznet.io',
+            },
+            {
+              label: 'Dashboard site ➤',
+              to: 'https://dashboard.wizcloud.io',
+            },
+            {
+              label: 'Partner site ➤',
+              to: 'https://manufacturer.wizcloud.io',
+            },
+            {
+              label: 'WIZnet Products ➤',
               to: 'https://docs.wiznet.io',
-            },
-            {
-              label: 'Cloud Page ➤',
-              to: 'https://iot-solutution-landing-page.azurewebsites.net',
-            },
-            {
-              label: 'Dev-Dashboard Page ➤',
-              to: 'https://winciotdashboarddev.azurewebsites.net',
-            },
-            {
-              label: 'Winc-Prod-Dashboard Page ➤',
-              to: 'https://www.winc.ai',
             },
             // ... more items
           ],
         },
          // {to: 'docs/introduction', label: 'INTRODUCTION TO WIZNET DOCUMENTS ➤', position: 'right'},
          // {to: 'docs/download', label: 'Download', position: 'right'},
-         {href: 'https://forum.wiznet.io/', label: 'Forum', position: 'right'},
+         {href: 'https://forum.wiznet.io/c/wiznet-cloud/195', label: 'Forum', position: 'right'},
          {href: 'https://www.wiznet.io/', label: 'WIZnet', position: 'right'},
 
 //        {to: 'blog', label: 'Blog', position: 'left'},
