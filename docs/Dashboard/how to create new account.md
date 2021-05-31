@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: /how_to_create_new_account
 sidebar_label: How to create new account
 sidebar_position: 2
 ---

@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: /introduce_of_dashboard
 sidebar_label: Introduce of dashboard
 sidebar_position: 4
 ---

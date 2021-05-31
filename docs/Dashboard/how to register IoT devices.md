@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: /how_to_register_IoT_devices
 sidebar_label: How to register IoT devices
 sidebar_position: 3
 ---

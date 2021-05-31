@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: /rule_engine
 sidebar_label: Rule Engine
 sidebar_position: 5
 ---
