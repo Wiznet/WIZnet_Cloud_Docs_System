@@ -10,30 +10,30 @@ By registering the IoT device, the user can check the data transmitted to the de
 
 ## How to register IoT devices
 Users can check the page below through ```Device|Rule``` menu on the dashboard site, and register the IoT device through the ```Register Devices``` button at the top.
-<br>
+
 ![](../../static/img/dashboard/register_device_1.png)
 
 When registering your current device, you need to enter the following information: This is the device's unique MAC address and information about the country and region in which the device is used.
 (The MAC address registered once cannot be registered repeatedly, and other MAC addresses other than the MAC address authenticated in Wiznet are not registered.)
-<br>
+
 ![](../../static/img/dashboard/register_device_2.png)
-<br>
+
 ![](../../static/img/dashboard/register_device_3.png)
 
 When the device is registered, you can check it as follows.
-<br>
+
 ![](../../static/img/dashboard/register_device_4.png)
 
 
 ## device connectoin
 When the IoT device connects to the WIZnet Cloud after completing device registration, the color of the connection confirmation bar changes to check the connection as shown below.
-<br>
+
 ![](../../static/img/dashboard/register_device_5.png)
 
 
 ## Search the registered IoT device
 You can search through the MAC address of the registered device.
-<br>
+
 ![](../../static/img/dashboard/register_device_6.png)
 
 
@@ -47,9 +47,9 @@ Devices certified to WIZnet Cloud are as follows:
 
 ## Next
 IoT Device certified by WIZnet catalogue
-<br>
+
 Learn device rule engine
-</br>
+
 IoT 디바이스의 위즈네트 클라우드 접속에 대해서 알아봅시다
-</br>
+
 Learn how to create user dashboard

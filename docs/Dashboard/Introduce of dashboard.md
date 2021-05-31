@@ -11,25 +11,25 @@ User can create one and more dashboards according to user's use and create widge
 
 ## How to create a dashboard
 Create a dashboard as the below.
-<br>
+
 ![](../../static/img/dashboard/introduce_of_dashboard_1.png)
 ![](../../static/img/dashboard/introduce_of_dashboard_2.png)
 
 User can edit dashboard title or delete it from dashbard submenu.
-<br>
+
 (Once deleted dashboard cannot be restored.)
-<br>
+
 ![](../../static/img/dashboard/introduce_of_dashboard_3.png)
 
 
 ## How to create a widget
 Widgets supported in the dashboard can be added through the menu shown in the picture.
-<br>
+
 ![](../../static/img/dashboard/introduce_of_dashboard_4.png)
 
 ## Widget list
 This list shows all types of widget supported from dashboard.
-<br>
+
 - line chart widget
 - bar chart widget
 - pie chart widget 
@@ -39,10 +39,10 @@ This list shows all types of widget supported from dashboard.
 
 ## Next
 Learn device rule engine
-<br>
+
 [Learn how to register IoT device]()
-<br>
+
 Learn how to connect IoT device to WIZnet cloud
-<br>
+
 Learn all types of widget supported from dashboard
-<br>
+
