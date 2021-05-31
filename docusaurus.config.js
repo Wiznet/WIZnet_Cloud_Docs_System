@@ -8,7 +8,7 @@ module.exports = {
 //   url: 'https://your-docusaurus-test-site.com',
 //   url:'https://wiznetcloudtest.github.io',
 //   url:'https://wiznet.github.io/WIZnet_Cloud_Docs_System',
-  url:'https://doc.wiznet.io',
+  url:'https://docs.wizcloud.io',
   baseUrl: '/',
 //     baseUrl: '/WIZnet_Cloud_Docs_System/',
 //   onBrokenLinks: 'throw',
