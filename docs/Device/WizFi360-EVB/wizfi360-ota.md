@@ -1,12 +1,12 @@
 ---
-slug: /wizfi360-ota
-title: WizFi360 Firmware OTA
+slug: /devices/wizfi360-ota
+title: WIZnet Cloud Firmware OTA
 sidebar_position: 2
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-If you using `Standard WizFi360 Firmware`, need to update to `WIZnet Clouud WizFi360 Firmware`.
+If you using `Standard WizFi360 Firmware`, need to update to `WIZnet Cloud WizFi360 Firmware`.
 
 Using OTA(Over the air), you can update firmware through WiFi.
 

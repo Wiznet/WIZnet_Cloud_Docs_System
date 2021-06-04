@@ -1,29 +1,23 @@
 ---
-slug: /wizfi360-evb
-title: WizFi360-EVB
+slug: /devices/wizfi360-evb-shield
+title: WizFi360-EVB-Shield
 sidebar_position: 1
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-## Connect to WIZnet Cloud Using WizFi360-EVB
-
 ## Introduction
-
-By registering WizFi360-EVB to WIZnet Cloud, you can manage devices and monitor data transmitted from devices.
-
-The process of device connection to WIZnet Cloud is as follows.
+WizFi360-EVB-Shield is the certified to WIZnet Cloud deivce and it is PnP(Plug and Play) IoT device. With WizFi360-EVB-Shield, user can send data to Dashboard and monitoring the data. Also user can control the device and send message to the device from Dashboard. The process of device connection to WIZnet Cloud Dashboard is as follows.
 
 ```
-1) Device WiFi connection setup
-2) Download the certificate from the authentication server
-3) Connect to WIZnet Cloud using a certificate
-4) Data transmission and monitoring
+1) WiFi connection setup
+2) Download the certificate from WIZnet Cloud
+3) Connect to WIZnet Cloud
+4) Data transmission and monitoring from Dashboard
 ```
 
 
 ## Materials
-
 First, the following items should be prepared.
 
 ### Hardware
@@ -31,13 +25,14 @@ First, the following items should be prepared.
  - [WizFi360-EVB-Shield](https://wizwiki.net/wiki/doku.php/products:wizfi360:start)
  - Micro 5 Pin USB Cable
 
-<img src="https://github.com/Wiznet/azure-iot-kr/blob/master/images/mqtt_atcmd_wizfi360_required_item_1.png?raw=true" />
+<img alt="wizfi360-EVB-Shield" src={useBaseUrl('/img/device/wizfi360-evb-shield.png')} />
 
-### Software
+### Setup Serial Terminal Tool
  - Serial Terminal (TeraTerm, Hercules, YAT, etc.)
 
->This document is based on YAT.
+>This document is based on YAT. YAT is free licened program and it supports serial communication terminal.
 
+[**YAT Download**](https://sourceforge.net/projects/y-a-terminal/)
 
 
 ## Step 1: Initial Settings
@@ -50,29 +45,29 @@ WizFi360-EVB-Shield is used in **Standalone Mode**. Therefore, the DIP Switch of
 * SW2 : Off
 * SW3 : Off
 
-<img src="https://github.com/Wiznet/azure-iot-kr/blob/master/images/set_wizfi360_evb_shield_dip_sw_1.png?raw=true" />
+<img alt="wizfi360-EVB-Shield-Setup" src={useBaseUrl('/img/device/wizfi360-evb-shield-setup.png')} />
 
 
 
 ### 2. Device connection
+After Hardware configuration, Connect WizFi360-EVB-Shield to PC using Micro 5 Pin USB Cable. Then check `Com port number` of Connected Wizfi360-EVB-Shield in `Device Manager`.
 
-fter Hardware configuration, Connect WizFi360-EVB-Shield to PC using Micro 5 Pin USB Cable.
+> Windows Task-bar > Search > type `Device Manager` > Enter
+>
+> Or refer this link [how to access the Device Manager(Windows 10)](https://www.sony.co.uk/electronics/support/articles/00122116)
 
+<img alt="device-manager" src={useBaseUrl('/img/device/device-manager.png')} />
 
-You can check com port number of Connected Wizfi360-EVB-Shield in Device Manager.
-
-<img src="https://github.com/Wiznet/azure-iot-kr/blob/master/images/device_management_1.png?raw=true" />
-
-> If you can't find device's com port, download and install driver from below link.
+> If you can't find device's `COM Port`, download and install driver from below link.
 >
 > * [CP210x USB to UART Bridge VCP Drivers](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
 
 ### 3. Open Terminal program
 
-Execute a ternial program and open device's com port.
+Execute `YAT`(or your ternial program) and open device's `COM Port` and baud rate as `115200 bps`.
 
-The default serial baud rate is `115200 bps`.
+<img alt="Termial-tool-setup" src={useBaseUrl('/img/device/yat-setup.png')} />
 
 <!-- 설정 캡쳐? -->
 
@@ -81,7 +76,7 @@ The default serial baud rate is `115200 bps`.
 
 ### 1. WiFi Configuration
 
-When device boot first, the device operates in AP mode, and the following message is output from the terminal.
+When device boot first, the device operates in `AP mode`, and the following message is output from the terminal.
 
 <!-- 초기 부팅 메시지 화면 -->
 <img alt="wizfi360_first_boot" src={useBaseUrl('/img/device/wizfi360_first_boot.png')} />
