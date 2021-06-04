@@ -31,7 +31,7 @@ First, the following items should be prepared.
  - [WizFi360-EVB-Shield](https://wizwiki.net/wiki/doku.php/products:wizfi360:start)
  - Micro 5 Pin USB Cable
 
-<img src="https://github.com/Wiznet/azure-iot-kr/blob/master/images/mqtt_atcmd_wizfi360_required_item_1.png" />
+<img src="https://github.com/Wiznet/azure-iot-kr/blob/master/images/mqtt_atcmd_wizfi360_required_item_1.png?raw=true" />
 
 ### Software
  - Serial Terminal (TeraTerm, Hercules, YAT, etc.)
@@ -50,7 +50,7 @@ WizFi360-EVB-Shield is used in **Standalone Mode**. Therefore, the DIP Switch of
 * SW2 : Off
 * SW3 : Off
 
-<img src="https://github.com/Wiznet/azure-iot-kr/blob/master/images/set_wizfi360_evb_shield_dip_sw_1.png" />
+<img src="https://github.com/Wiznet/azure-iot-kr/blob/master/images/set_wizfi360_evb_shield_dip_sw_1.png?raw=true" />
 
 
 
@@ -61,7 +61,7 @@ fter Hardware configuration, Connect WizFi360-EVB-Shield to PC using Micro 5 Pin
 
 You can check com port number of Connected Wizfi360-EVB-Shield in Device Manager.
 
-<img src="https://github.com/Wiznet/azure-iot-kr/blob/master/images/device_management_1.png" />
+<img src="https://github.com/Wiznet/azure-iot-kr/blob/master/images/device_management_1.png?raw=true" />
 
 > If you can't find device's com port, download and install driver from below link.
 >
@@ -93,6 +93,7 @@ AP Mode web server config mode
 Turn on the WiFi function on the smartphone or PC with the WiFi adapter, find the SSID in the form of `WizFi360_xxxxxx` and connect, then run the web browser and access the `192.168.36.1` address.
 
 >`xxxxxx` mean the last 6 digits of the device MAC address.
+
 >Smartconfig function does not support internet connection.
 
 
@@ -168,6 +169,7 @@ You can transfer data using below AT command.
 The parameter must be in JSON format.
 
 >Key value must follow the component name used when registering the device.
+
 >Component names can be found on the Device Details page within the Dashboard site.
 
 <!-- 설명 문서 링크 -->
