@@ -1,5 +1,5 @@
 ---
-# slug: /wizfi360-atcmd
+slug: /wizfi360-evb
 title: WizFi360-EVB
 sidebar_position: 1
 ---
@@ -126,7 +126,9 @@ When connected to the network, the device immediately tries to authenticate thro
 
 >If it is not a registered device, cannot receive a certificate.
 
->If you can't finish authentication process, please contact the WIZnet Cloud support team.
+:::note Authentication Problem
+If you can't finish authentication process, please contact the WIZnet Cloud support team.
+:::
 
 
 
@@ -188,8 +190,8 @@ Now go to the Dashboard site and check data.
 
 ## Next steps
 
-- [How to register IoT devices](/how_to_register_IoT_devices)
 - [Introduce of Dashboard](/introduce_of_dashboard)
+- [How to register IoT devices](/how_to_register_IoT_devices)
 - [Rule Engine](/rule_engine)
 
 
