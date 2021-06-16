@@ -46,10 +46,10 @@ Devices certified to WIZnet Cloud are as follows:
 
 
 ## Next
-IoT Device certified by WIZnet catalogue
 
-Learn device rule engine
+[IoT Device certified by WIZnet catalogue](/devices/wizfi360-evb-shield)
 
-IoT 디바이스의 위즈네트 클라우드 접속에 대해서 알아봅시다
+[Learn how to register IoT device](/how_to_register_IoT_devices)
 
-Learn how to create user dashboard
+[Learn device rule engine](/rule_engine)
+

@@ -45,10 +45,9 @@ Devices certified to WIZnet Cloud are as follows.
 - W510S2C
 
 ## Next
-Learn how to register IoT device
 
-IoT 디바이스의 위즈네트 클라우드 접속에 대해서 알아봅시다
+[IoT Device certified by WIZnet catalogue](/devices/wizfi360-evb-shield)
 
-Learn how to create user dashboard
+[Learn how to create user dashboard](/introduce_of_dashboard)
 
-대시보드 위젯 생성에 대해 알아봅시다
+[Learn all types of widget supported from dashboard](/widgets)

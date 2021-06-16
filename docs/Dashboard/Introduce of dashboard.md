@@ -38,11 +38,14 @@ This list shows all types of widget supported from dashboard.
 - button widget
 
 ## Next
-Learn device rule engine
 
-Learn how to register IoT device
+[How to create new account](/how_to_create_new_account)
 
-Learn how to connect IoT device to WIZnet cloud
+[Learn device rule engine](/rule_engine)
 
-Learn all types of widget supported from dashboard
+[Learn how to register IoT device](/how_to_register_IoT_devices)
+
+[Learn how to connect IoT device to WIZnet cloud](/devices/wizfi360-evb-shield)
+
+[Learn all types of widget supported from dashboard](/widgets)
 

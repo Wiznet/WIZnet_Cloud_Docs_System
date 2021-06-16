@@ -57,7 +57,7 @@ OK<CR><LF>
 
 `AT+CIUPDATE=<Fireware image url>`
 
->현재 아래 URL에서 WIZnet Cloud 연동 WizFi360 F/W를 제공합니다.
+>Currently, WizFi360 F/W for WIZnet Cloud is provided at the URL below.
 * URL: "http://wizwiki.net/download/WizFi360/WinC/WizFi360_SDK_WINC_V1.0.0.7.img"
 
 

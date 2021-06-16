@@ -20,8 +20,9 @@ Open [Dashboard site](https://dashboard.wizcloud.io) and click the sign up to cr
 
 
 ## Next
-IoT Device certified by WIZnet catalogue
 
-Introduce of dashboard
+[IoT Device certified by WIZnet catalogue](/devices/wizfi360-evb-shield)
 
-Learn how to create user dashboard
+[Introduce of dashboard](/introduce_of_dashboard)
+
+[Learn how to create user dashboard](/introduce_of_dashboard)
